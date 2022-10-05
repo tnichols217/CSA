@@ -1,0 +1,1 @@
+nodemon -x "sh scripts/comrun.sh" -w src -e java
